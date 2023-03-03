@@ -1,0 +1,37 @@
+p {
+    font-size: 1.2em;
+    line-height: 1.5em;
+    color: #bbbbbb;
+}
+.logo {
+    width: 1024px;
+    margin: 0 auto;
+    text-align: center;
+    padding-top: 80px;
+}
+.avatar {
+    border-radius: 50%;
+    width: 145px;
+    margin: 2em auto;
+}
+
+#sobreMi{
+    margin: 100px 0;
+    border: 1px solid #a0a2a4;
+    border-radius: 5px;
+    overflow: hidden;
+    padding: 2em;
+    margin-top: 2em;
+    -webkit-box-shadow: 22px 24px 81px -10px rgba(160,162,164,1);
+    -moz-box-shadow: 22px 24px 81px -10px rgba(160,162,164,1);  
+    box-shadow: 22px 24px 81px -10px rgba(160,162,164,1);
+}
+
+dt, dd {
+    padding: 0.5em;
+    display: inline-block;
+}
+i.bi {
+    padding-right: 1em;
+    font-size: 1.5em;
+}
